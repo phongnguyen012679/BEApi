@@ -1,0 +1,433 @@
+C:\src\BE\BEApi\bin\Debug\net7.0\appsettings.Development.json
+C:\src\BE\BEApi\bin\Debug\net7.0\appsettings.json
+C:\src\BE\BEApi\bin\Debug\net7.0\BEApi.exe
+C:\src\BE\BEApi\bin\Debug\net7.0\BEApi.deps.json
+C:\src\BE\BEApi\bin\Debug\net7.0\BEApi.runtimeconfig.json
+C:\src\BE\BEApi\bin\Debug\net7.0\BEApi.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\BEApi.pdb
+C:\src\BE\BEApi\bin\Debug\net7.0\AutoMapper.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Azure.Core.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Humanizer.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.csproj.AssemblyReference.cache
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfoInputs.cache
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfo.cs
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.csproj.CoreCompileInputs.cache
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cs
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cache
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.BEApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BEApi.props
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BEApi.props
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BEApi.props
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\src\BE\BEApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\src\BE\BEApi\obj\Debug\net7.0\scopedcss\bundle\BEApi.styles.css
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.csproj.CopyComplete
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.dll
+C:\src\BE\BEApi\obj\Debug\net7.0\refint\BEApi.dll
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.pdb
+C:\src\BE\BEApi\obj\Debug\net7.0\BEApi.genruntimeconfig.cache
+C:\src\BE\BEApi\obj\Debug\net7.0\ref\BEApi.dll
+C:\src\BE\BEApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\appsettings.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\BEApi.exe
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\BEApi.deps.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\BEApi.runtimeconfig.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.csproj.AssemblyReference.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.AssemblyInfoInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.AssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets\msbuild.BEApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets\msbuild.build.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\scopedcss\bundle\BEApi.styles.css
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.csproj.CopyComplete
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\refint\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\BEApi.genruntimeconfig.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\obj\Debug\net7.0\ref\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Apache.Arrow.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\OpenAI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\OpenAI.Utilities.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApi-main\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\appsettings.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\BEApi.exe
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\BEApi.deps.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\BEApi.runtimeconfig.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Apache.Arrow.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\OpenAI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\OpenAI.Utilities.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Humanizer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.csproj.AssemblyReference.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.AssemblyInfoInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.AssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets\msbuild.BEApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets\msbuild.build.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\scopedcss\bundle\BEApi.styles.css
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.csproj.CopyComplete
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\refint\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\BEApi.genruntimeconfig.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi-main\BEApimain\obj\Debug\net7.0\ref\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\appsettings.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\BEApi.exe
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\BEApi.deps.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\BEApi.runtimeconfig.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Apache.Arrow.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\OpenAI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\OpenAI.Utilities.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.AssemblyReference.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfoInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.BEApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BEApi.props
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\scopedcss\bundle\BEApi.styles.css
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.CopyComplete
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\refint\BEApi.dll
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.pdb
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\BEApi.genruntimeconfig.cache
+C:\Users\phong\OneDrive\Máy tính\BEApi\BEApi\obj\Debug\net7.0\ref\BEApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\appsettings.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BEApi.exe
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BEApi.deps.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BEApi.runtimeconfig.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BEApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BEApi.pdb
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Apache.Arrow.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\OpenAI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\OpenAI.Utilities.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.AssemblyReference.cache
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfoInputs.cache
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.AssemblyInfo.cs
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.CoreCompileInputs.cache
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.BEApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BEApi.props
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BEApi.props
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BEApi.props
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\scopedcss\bundle\BEApi.styles.css
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.csproj.CopyComplete
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\refint\BEApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.pdb
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\BEApi.genruntimeconfig.cache
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\obj\Debug\net7.0\ref\BEApi.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\MailKit.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\MimeKit.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PhongNT96\Desktop\BEApi\BEApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
