@@ -10,12 +10,15 @@ namespace BEApi.Controllers
     {
         private readonly IUserRepo _userRepo;
         private readonly ITokenService _tokenService;
+        private readonly IIdentityService _identity;
 
         public AccountController(IUserRepo userRepo,
-                                 ITokenService tokenService)
+                                 ITokenService tokenService,
+                                 IIdentityService identity)
         {
             _userRepo = userRepo;
             _tokenService = tokenService;
+            _identity = identity;
         }
 
         [AllowAnonymous]
@@ -23,7 +26,13 @@ namespace BEApi.Controllers
         public async Task<ActionResult<ApiResponse>> Login(LoginDto loginDto)
         {
             var existUser = await _userRepo.ExistUserAsync(loginDto.Username);
-            if (loginDto == null || existUser == null) return NotFound();
+            if (loginDto == null || existUser == null)
+                return new ApiResponse
+                {
+                    Success = false,
+                    Message = "User not found",
+                    Data = ""
+                };
 
             var result = await _userRepo.LoginAsync(loginDto);
 
@@ -35,7 +44,13 @@ namespace BEApi.Controllers
         public async Task<ActionResult<ApiResponse>> Register(RegisterDto registerDto)
         {
             var existUser = await _userRepo.ExistUserAsync(registerDto.Username);
-            if (existUser != null) return BadRequest("User already registered");
+            if (existUser != null)
+                return new ApiResponse
+                {
+                    Success = false,
+                    Message = "User already registered",
+                    Data = ""
+                };
 
             var result = await _userRepo.RegisterAsync(registerDto);
 
@@ -46,10 +61,25 @@ namespace BEApi.Controllers
         [HttpPost(nameof(UpdateInfo))]
         public async Task<ActionResult<ApiResponse>> UpdateInfo(UpdateUserDto updateUserDto)
         {
-            var existUser = await _userRepo.ExistUserAsync(updateUserDto.Username);
-            if (existUser == null) return BadRequest("User not found");
+            if (updateUserDto.NewPassword.ToLower() != updateUserDto.ConfirmPassword.ToLower())
+                return new ApiResponse
+                {
+                    Success = false,
+                    Message = "NewPassword and ConfirmPassword must be the same",
+                    Data = ""
+                };
 
-            var result = await _userRepo.UpdateUserAsync(existUser, updateUserDto);
+            var username = _identity.GetUserNameIdentity();
+            var correctPassword = await _userRepo.CorrectPassword(username, updateUserDto.NewPassword);
+            if (!correctPassword)
+                return new ApiResponse
+                {
+                    Success = false,
+                    Message = "Password not correct",
+                    Data = ""
+                };
+
+            var result = await _userRepo.UpdateUserAsync(username, updateUserDto);
 
             return await Task.FromResult(result);
         }
@@ -59,7 +89,13 @@ namespace BEApi.Controllers
         public async Task<ActionResult<ApiResponse>> ForgotPassword(ForgotPasswordDto forgotPasswordDto)
         {
             var existUser = await _userRepo.ExistUserAsync(forgotPasswordDto.Username);
-            if (existUser == null) return BadRequest("User not found");
+            if (existUser == null)
+                return new ApiResponse
+                {
+                    Success = false,
+                    Message = "User not found",
+                    Data = ""
+                };
 
             var result = await _userRepo.ForgotPasswordAsync(existUser);
 

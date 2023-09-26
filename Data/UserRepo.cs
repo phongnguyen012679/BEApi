@@ -82,12 +82,12 @@ namespace BEApi.Data
             };
         }
 
-        public async Task<ApiResponse> UpdateUserAsync(User user, UpdateUserDto updateUserDto)
+        public async Task<ApiResponse> UpdateUserAsync(string username, UpdateUserDto updateUserDto)
         {
-            using var hmac = new HMACSHA512();
+            var user = await _context.User.FirstOrDefaultAsync(x => x.Username == username);
 
-            user.Username = updateUserDto.Username.ToLower();
-            user.PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(updateUserDto.Password));
+            using var hmac = new HMACSHA512();
+            user.PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(updateUserDto.NewPassword));
             user.PasswordSalt = hmac.Key;
             user.Email = updateUserDto.Email;
             user.DiaryOwner = updateUserDto.DiaryOwner;
@@ -120,6 +120,23 @@ namespace BEApi.Data
                 Message = isSuccess ? "Update success" : "Error updating password",
                 Data = ""
             };
+        }
+
+        public async Task<bool> CorrectPassword(string Username, string password)
+        {
+            var user = await _context.User.FirstOrDefaultAsync(x => x.Username == Username);
+
+            using var hmac = new HMACSHA512(user.PasswordSalt);
+
+            var computeHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
+
+            for (int i = 0; i < computeHash.Length; i++)
+            {
+                if (computeHash[i] != user.PasswordHash[i])
+                    return false;
+            }
+
+            return true;
         }
     }
 }

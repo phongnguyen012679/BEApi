@@ -9,11 +9,11 @@ namespace BEApi.Extensions
                                                   IConfiguration config,
                                                   bool isProd)
         {
-            if (isProd)
-                services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(config.GetConnectionString("SysConnection")));
+            //if (isProd)
+            services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(config.GetConnectionString("SysConnection")));
 
-            else
-                services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMem"));
+            //else
+            //   services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("InMem"));
         }
     }
 }

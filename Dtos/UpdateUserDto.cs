@@ -4,11 +4,15 @@ namespace BEApi.Dtos
 {
     public class UpdateUserDto
     {
-        [Required]
-        public string Username { get; set; }
 
         [Required]
-        public string Password { get; set; }
+        public string CurrentPassword { get; set; }
+
+        [Required]
+        public string NewPassword { get; set; }
+
+        [Required]
+        public string ConfirmPassword { get; set; }
 
         [Required]
         public string Email { get; set; }
