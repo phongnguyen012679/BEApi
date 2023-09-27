@@ -72,11 +72,11 @@ namespace BEApi.Controllers
         [HttpPost(nameof(ForgotPassword))]
         public async Task<ActionResult<ApiResponse>> ForgotPassword(ForgotPasswordDto forgotPasswordDto)
         {
-            var existUser = await _userRepo.ExistUserAsync(forgotPasswordDto.Username);
-            if (existUser == null)
+            var user = await _userRepo.ExistEmailAsync(forgotPasswordDto.Email);
+            if (user == null)
                 return new ApiResponse(false, "User not found", "");
 
-            var result = await _userRepo.ForgotPasswordAsync(existUser);
+            var result = _userRepo.ForgotPasswordAsync(user);
 
             return await Task.FromResult(result);
         }

@@ -5,6 +5,6 @@ namespace BEApi.Dtos
     public class ForgotPasswordDto
     {
         [Required]
-        public string Username { get; set; }
+        public string Email { get; set; }
     }
 }

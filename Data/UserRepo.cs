@@ -83,7 +83,7 @@ namespace BEApi.Data
             return new ApiResponse(true, "Update success", "");
         }
 
-        public async Task<ApiResponse> ForgotPasswordAsync(User user)
+        public ApiResponse ForgotPasswordAsync(User user)
         {
             var mailData = new MailData()
             {
@@ -114,5 +114,11 @@ namespace BEApi.Data
 
             return true;
         }
+
+        public async Task<User> ExistEmailAsync(string email)
+        {
+            return await _context.User.FirstOrDefaultAsync(x => x.Email == email);
+        }
+
     }
 }
