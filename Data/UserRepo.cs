@@ -37,21 +37,12 @@ namespace BEApi.Data
             for (int i = 0; i < computeHash.Length; i++)
             {
                 if (computeHash[i] != user.PasswordHash[i])
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Invalid username/password"
-                    };
+                    return new ApiResponse(false, "Invalid username/password", "");
             }
 
             var token = await _tokenService.GenerateToken(user);
 
-            return new ApiResponse
-            {
-                Success = true,
-                Message = "Authenticate success",
-                Data = token
-            };
+            return new ApiResponse(true, "Authenticate success", token);
         }
 
         public async Task<ApiResponse> RegisterAsync(RegisterDto registerDto)
@@ -74,12 +65,7 @@ namespace BEApi.Data
 
             var token = await _tokenService.GenerateToken(user);
 
-            return new ApiResponse
-            {
-                Success = true,
-                Message = "Authenticate success",
-                Data = token
-            };
+            return new ApiResponse(true, "Authenticate success", token);
         }
 
         public async Task<ApiResponse> UpdateUserAsync(string username, UpdateUserDto updateUserDto)
@@ -94,12 +80,7 @@ namespace BEApi.Data
 
             await _context.SaveChangesAsync();
 
-            return new ApiResponse
-            {
-                Success = true,
-                Message = "Update success",
-                Data = ""
-            };
+            return new ApiResponse(true, "Update success", "");
         }
 
         public async Task<ApiResponse> ForgotPasswordAsync(User user)
@@ -114,12 +95,7 @@ namespace BEApi.Data
 
             var isSuccess = _mailService.SendMail(mailData);
 
-            return new ApiResponse
-            {
-                Success = isSuccess,
-                Message = isSuccess ? "Update success" : "Error updating password",
-                Data = ""
-            };
+            return new ApiResponse(isSuccess, isSuccess ? "Update success" : "Error updating password", "");
         }
 
         public async Task<bool> CorrectPassword(string Username, string password)

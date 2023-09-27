@@ -27,12 +27,7 @@ namespace BEApi.Controllers
         {
             var existUser = await _userRepo.ExistUserAsync(loginDto.Username);
             if (loginDto == null || existUser == null)
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = "User not found",
-                    Data = ""
-                };
+                return new ApiResponse(false, "User not found", "");
 
             var result = await _userRepo.LoginAsync(loginDto);
 
@@ -45,12 +40,7 @@ namespace BEApi.Controllers
         {
             var existUser = await _userRepo.ExistUserAsync(registerDto.Username);
             if (existUser != null)
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = "User already registered",
-                    Data = ""
-                };
+                return new ApiResponse(false, "User already registered", "");
 
             var result = await _userRepo.RegisterAsync(registerDto);
 
@@ -61,23 +51,17 @@ namespace BEApi.Controllers
         [HttpPost(nameof(UpdateInfo))]
         public async Task<ActionResult<ApiResponse>> UpdateInfo(UpdateUserDto updateUserDto)
         {
+            var flagcheck = 0;
             if (updateUserDto.NewPassword.ToLower() != updateUserDto.ConfirmPassword.ToLower())
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = "NewPassword and ConfirmPassword must be the same",
-                    Data = ""
-                };
+                flagcheck = -1;
 
             var username = _identity.GetUserNameIdentity();
             var correctPassword = await _userRepo.CorrectPassword(username, updateUserDto.NewPassword);
             if (!correctPassword)
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = "Password not correct",
-                    Data = ""
-                };
+                flagcheck = -2;
+
+            if (flagcheck == -1 || flagcheck == -2)
+                return new ApiResponse(false, flagcheck == -2 ? "Password not correct" : "NewPassword and ConfirmPassword must be the same", "");
 
             var result = await _userRepo.UpdateUserAsync(username, updateUserDto);
 
@@ -90,12 +74,7 @@ namespace BEApi.Controllers
         {
             var existUser = await _userRepo.ExistUserAsync(forgotPasswordDto.Username);
             if (existUser == null)
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = "User not found",
-                    Data = ""
-                };
+                return new ApiResponse(false, "User not found", "");
 
             var result = await _userRepo.ForgotPasswordAsync(existUser);
 

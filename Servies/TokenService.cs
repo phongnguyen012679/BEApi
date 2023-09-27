@@ -47,63 +47,32 @@ namespace BEApi.Servies
                 {
                     var result = jwtSecurityToken.Header.Alg.Equals(SecurityAlgorithms.HmacSha512, StringComparison.InvariantCultureIgnoreCase);
                     if (!result)
-                    {
-                        new ApiResponse
-                        {
-                            Success = false,
-                            Message = "Invalid token"
-                        };
-                    }
+                        return new ApiResponse(false, "Invalid token", "");
+
                 }
 
                 var utcExpireDate = long.Parse(tokenInVerification.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Exp).Value);
 
                 var expireDate = ConvertUnixTimeToDateTime(utcExpireDate);
                 if (expireDate > DateTime.UtcNow)
-                {
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Access token has not yet expired"
-                    };
-                }
+                    return new ApiResponse(false, "Access token has not yet expired", "");
+
 
                 var storedToken = await _context.refreshToken.FirstOrDefaultAsync(x => x.Token == model.RefreshToken);
                 if (storedToken == null)
-                {
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Refresh token does not exist"
-                    };
-                }
+                    return new ApiResponse(false, "Refresh token does not exist", "");
+
 
                 if (storedToken.IsUsed)
-                {
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Refresh token has been used"
-                    };
-                }
+                    return new ApiResponse(false, "Refresh token has been used", "");
+
                 if (storedToken.IsRevoked)
-                {
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Refresh token has been revoked"
-                    };
-                }
+                    return new ApiResponse(false, "Refresh token has been revoked", "");
+
 
                 var jti = tokenInVerification.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Jti).Value;
                 if (storedToken.JwtId != jti)
-                {
-                    return new ApiResponse
-                    {
-                        Success = false,
-                        Message = "Token doesn't match"
-                    };
-                }
+                    return new ApiResponse(false, "Token doesn't match", "");
 
                 storedToken.IsRevoked = true;
                 storedToken.IsUsed = true;
@@ -113,20 +82,11 @@ namespace BEApi.Servies
                 var user = await _context.User.SingleOrDefaultAsync(nd => nd.Id == storedToken.UserId);
                 var token = await GenerateToken(user);
 
-                return new ApiResponse
-                {
-                    Success = true,
-                    Message = "Renew token success",
-                    Data = token
-                };
+                return new ApiResponse(true, "Renew token success", token);
             }
             catch (Exception ex)
             {
-                return new ApiResponse
-                {
-                    Success = false,
-                    Message = $"Something went wrong {ex.Message}"
-                };
+                return new ApiResponse(false, $"Something went wrong {ex.Message}", "");
             }
         }
 
